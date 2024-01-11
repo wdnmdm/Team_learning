@@ -46,6 +46,6 @@
 
 ![1704894340024](image/Homework3/1704894340024.png)
 
-![1704891511080](https://file+.vscode-resource.vscode-cdn.net/e%3A/PyProject/datawhale/InternLM-main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/image/Homework3/1704891511080.png)
+![1704891511080](image/Homework3/1704891511080.png)
 
-![1704891527977](https://file+.vscode-resource.vscode-cdn.net/e%3A/PyProject/datawhale/InternLM-main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/image/Homework3/1704891527977.png)
+![1704891527977](image/Homework3/1704891527977.png)
